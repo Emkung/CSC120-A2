@@ -1,3 +1,4 @@
 Use this file to record your reflection on this assignment. 
 
 What worked, what didn't, what advice would you give someone taking this course in the future?
+What worked for me was looking at the comments left by the professor and understand what each function was meant to do. What didnt worl for me however was just following exactly how the orginal file coded their functions. I would give the suggestion to the new students on always thinking how a certain way of coding limits the code and how changing the way of coding would open the code different ways of presentation and storage of the information. 
