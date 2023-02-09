@@ -22,7 +22,7 @@ class ResaleShop:
         else:
             print ("Item not found. Cannot update price.")
     #updates on the OS of the computer
-    def update_os(self, c: Computer, new_os: int):
+    def update_os(self, c: Computer, new_os: str):
         if c in self.inventory:
             c.operating_system = new_os
         else:
